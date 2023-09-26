@@ -10,3 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+![ezgif com-crop (1)](https://github.com/ForZeroFour/.github/assets/109433579/8bae87ec-90bc-4525-8d54-2f4065fcc408)
